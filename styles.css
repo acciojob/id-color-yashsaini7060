@@ -2,15 +2,28 @@
 
 #yellow{
 	background:yellow;
-	border: 1px solid green;
+	border-top: 1px solid green;
+	border-bottom: 1px solid green;
+	border-left: 1px solid green;
+	border-right: 1px solid green;
+	
+	
 }
 
 #red{
 	background:red;
-	border: 1px solid green;
+	border-top: 1px solid green;
+	border-bottom: 1px solid green;
+	border-left: 1px solid green;
+	border-right: 1px solid green;
+	
 }
 
 #green{
 	background:green;
-	border: 1px solid green;
+	border-top: 1px solid green;
+	border-bottom: 1px solid green;
+	border-left: 1px solid green;
+	border-right: 1px solid green;
+	
 }
