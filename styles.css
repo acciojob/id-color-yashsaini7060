@@ -20,26 +20,12 @@
 
 #red{
 	background:red;
-	border-top: 1px solid green;
-	border-bottom: 1px solid green;
-	border-left: 1px solid green;
-	border-right: 1px solid green;
+	border: 1px solid red;
 	
 }
 
 #green{
 	background:green;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-right-style: solid;
-	border-top-width: 1px;
-	border-bottom-width: 1px;
-	border-left-width: 1px;
-	border-right-width: 1px;
-	border-top-color:green;
-	border-bottom-color:green;
-	border-left-color:green;
-	border-right-color:green;
+	border: 1px solid yellow;
 	
 }
